@@ -1,0 +1,9 @@
+WORKING DIRECTORY (DIRECTORIO DE TRABAJO)
+
+Es la carpeta donde creamos el repositori de git, basicamente
+donde realizamos los cambios en los archivos (creacion, eliminacion,
+edicion) y donde casualmente utilizaremos la consola para verificar algunas
+cosas. 
+
+NOTA: Esta es el area que va a tener en cuenta git a la hora de 
+agregar o registrar los archivos a los que querramos hacerles seguimiento. 
