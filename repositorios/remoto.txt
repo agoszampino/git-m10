@@ -1,0 +1,11 @@
+REMOTO:
+
+Corresponde a un repositorio que se
+encuentra e notro equipo/servidor. Existen
+sitios como github, gitlab o bitbucket que 
+estan diseñados para el almacen de datos,
+especificamente hablando, repositoros de
+proyectos
+
+FALTA COMPLETAR
+
